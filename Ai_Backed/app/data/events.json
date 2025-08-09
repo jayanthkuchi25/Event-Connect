@@ -1,0 +1,23 @@
+[
+  {
+    "id": "music",
+    "title": "Summer Music Festival 2024",
+    "description": "Join us for an unforgettable night of live music featuring top artists from around the world.",
+    "category": "Music",
+    "location": "Central Park, New York"
+  },
+  {
+    "id": "tech",
+    "title": "Tech Innovation Summit",
+    "description": "Explore the latest in AI, blockchain, and emerging technologies with industry leaders.",
+    "category": "Technology",
+    "location": "Convention Center, San Francisco"
+  },
+  {
+    "id": "jazz",
+    "title": "Jazz Under the Stars",
+    "description": "An intimate evening of smooth jazz in a beautiful outdoor setting under the night sky.",
+    "category": "Music",
+    "location": "Riverside Amphitheater, Portland"
+  }
+]
